@@ -1,0 +1,3 @@
+# page.js
+
+Start typing here...
