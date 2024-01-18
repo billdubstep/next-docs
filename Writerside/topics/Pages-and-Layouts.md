@@ -1,6 +1,12 @@
 # Pages and Layouts
 
->我们建议在继续之前阅读[路由基础](Route.md)和[定义路由](Defining-Routes.md)页面。
+
+<procedure title="" id="procedure-id">
+
+我们建议在继续之前阅读[路由基础](Route.md)和[定义路由](Defining-Routes.md)页面。
+
+</procedure>
+
 
 Next.js 13中的应用路由器引入了新的文件约定，以方便地创建[页面](#page)、[共享布局](#layouts)和[模板](#templates)。
 本页将指导您如何在Next.js应用程序中使用这些特殊文件。

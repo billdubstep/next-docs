@@ -9,7 +9,9 @@
     <toc-element topic="Route.md" toc-title="Routing">
         <toc-element topic="Defining-Routes.md"/>
         <toc-element topic="Pages-and-Layouts.md"/>
+        <toc-element topic="Linking-and-Navigating.md"/>
         <toc-element topic="Route-Groups.md"/>
+        <toc-element topic="Dynamic-Routes.md"/>
     </toc-element>
     <toc-element topic="Data-Fetching.md"/>
     <toc-element topic="Rendering.md">
@@ -29,5 +31,11 @@
         <toc-element topic="generateMetadata.md" toc-title="generateMetadata"/>
         <toc-element topic="useSelectedLayoutSegment.md"/>
         <toc-element topic="useSelectedLayoutSegments.md"/>
+        <toc-element topic="usePathname.md"/>
+    </toc-element>
+    <toc-element topic="API-Reference.md">
+    </toc-element>
+    <toc-element topic="Components.md">
+        <toc-element topic="Link.md" toc-title="Link"/>
     </toc-element>
 </instance-profile>
